@@ -1,6 +1,6 @@
 # unigrams pt-br
 
-Onegram generated from 16 files provided by NILC - Núcleo Interinstitucional de Linguística Computacional.
+Unigram generated from 16 files provided by NILC - Núcleo Interinstitucional de Linguística Computacional.
 
 These files are composed by +681.639.644 tokens:
 
